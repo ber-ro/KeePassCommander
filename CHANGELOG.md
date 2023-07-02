@@ -1,5 +1,15 @@
 # KeePassCommander changelog
 
+## Version 4.2
+Release date: 6 april 2023
+
+* fix: open KeePassCommand.config.xml in same directory as KeePassCommandDll.dll
+
+## Version 4.1
+Release date: 28 march 2023
+
+* fix: C# programming language connector.
+
 ## Version 4.0
 Release date: 18 november 2022
 
